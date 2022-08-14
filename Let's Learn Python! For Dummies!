@@ -1,0 +1,42 @@
+Let's Learn Python! For Dummies!
+--------------------------------
+
+Notes: General bits of useful info to remeber.
+	~Comments can be denoted using #, everything after will be ignored, code-wise.
+	~Python is case sensative {"ClassName" is different from "classname"}
+
+Chapter 1;=====================================================================
+
+	Modules;
+		Little bytes (heh) of code that can accomplish various task without having to wite them from scratch. Import using "import [module name]" at the beginning of your code file
+
+	Data types;
+		~Numbers:
+			Valid number types are: 1, .01, -1, 1.01
+		
+		~Types of Numbers:
+			Integers:
+				Any whole real number, positive or negative.
+
+			Floats:
+				Any number that contains a decimal point
+
+			Complex numbers:
+				Imaginary numbers, denoted by ending in "j"
+
+			Strings:	
+				Any text can be part of a string. "this is a string" you can tell because it's enclosed in quotes, either single '', or double "".
+				(However if the string contains an apostrophe, the whole string should be contained within double quotes. Alternatively you can escape the apostrophe by using a backslash preceeding said apostrophe.IE: "that\'s my bike")
+
+			Booleans:
+				In python, True & False valuables get stored in variables. IE: "x = true//x=false"
+
+		~Doing mathematical operations:
+			Operators:
+				All standard math operations are available in python.			+, -, *, /, **, //, %
+				Addition, Subtraction, Multiplication, Division, Exponents, Floor Division, Modulus(remainder after division)
+
+			Boolean Operators:
+				OR - Either "x or y" is true
+				AND - Both "x and y" are true
+				NOT - "Not X", x is not full	
