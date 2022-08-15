@@ -40,3 +40,22 @@ Chapter 1;=====================================================================
 				OR - Either "x or y" is true
 				AND - Both "x and y" are true
 				NOT - "Not X", x is not full	
+
+				(Tip: Python style conventions suggest always utilizing whitespace around operators for clarity!)
+
+	Variables:
+		Naming:
+			variables must start with a letter or underscore.
+			After the first letter name as you wish
+			Remeber, names are case-sensitive!
+			Cannot be enclosed in or contain: Apostrophe ', Single '', or Double "", quotation marks. 
+
+		Syntax:
+			To create/name/declare a variable ( variablename = value ) in this case = is the assignment operator, and value can be a number, an array, a string
+
+			Code EX:
+				quantity = 10
+				unit_price = 1.99
+				extended_price = quantity * unit_price
+				print(extended_price)
+	
